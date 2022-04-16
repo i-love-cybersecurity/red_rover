@@ -4,6 +4,7 @@ LAN controlled RC car
 as mobile IoT device 
 for wireless penetration testing. 
 
-Back in the copy/paste days.
-It looks horrible, but I wont 
+Back in my copy/paste days.
+It looks horrible 
+cuz it was years ago, but I wont 
 put anymore time into it.
